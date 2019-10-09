@@ -199,6 +199,7 @@ public class Assignment10
                         "P\t\tPrint Linked List\n" +
                         "Q\t\tQuit\n" +
                         "?\t\tDisplay Help\n\n");
+       System.out.println("test1");
 
     } //end of printMenu()
 }
